@@ -31,24 +31,31 @@ GradeBook_App/
    ```bash
    git clone https://github.com/NKGarzonGrajales/GradeBook_App.git
 2. Entra a la carpeta:
+   ```bash
    cd GradeBook_App
-3. Ejecuta con Node.js:
+4. Ejecuta con **Node.js**:
+   ```bash
    node average/getAverage.js
    node average/getGrade.js
    
 3. Ejemplo de uso:
+   ```bash
    const { getAverage } = require("./average/getAverage");
    const { getGrade } = require("./average/getGrade");
 
 // Promedio de notas
+
   console.log(getAverage([90, 80, 70])); // 80
 
+
 // Calificación de un estudiante
+
   console.log(getGrade(95)); // "A"
+
 
   👩‍💻 Autora
 
-NKGarzonGrajales
+   NKGarzonGrajales
 📌 Estudiante y desarrolladora Full Stack en formación.
 
 
