@@ -15,11 +15,17 @@ Permite calcular el promedio de las calificaciones, asignar calificaciones en fo
 ## 📂 Estructura del proyecto
 
 GradeBook_App/
+
 │
+---
 ├── average/
+---
 │ ├── getAverage.js # Función para calcular el promedio
+---
 │ └── getGrade.js # Función para asignar calificaciones
+---
 │
+---
 ├── README.md # Documentación del proyecto
 
 
