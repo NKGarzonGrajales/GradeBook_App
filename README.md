@@ -13,6 +13,7 @@ Permite calcular el promedio de las calificaciones, asignar calificaciones en fo
 ---
 
 ## 📂 Estructura del proyecto
+---
 
 GradeBook_App/
 
